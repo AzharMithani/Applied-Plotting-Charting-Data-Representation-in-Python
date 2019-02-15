@@ -1,4 +1,9 @@
 
+# Image with a clear view
+(Sorry for any inconvience caused due to uploaded image)
+
+![alt text](https://github.com/AzharMithani/Applied-Plotting-Charting-Data-Representation-in-Python/blob/master/week1/test.png)
+
 
 # This visual was found at San Jose Public Library.
 https://www.sjpl.org/blog/sources-unknown-data-literacy
